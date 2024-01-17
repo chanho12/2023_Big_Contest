@@ -7,3 +7,4 @@
 ### 데이터 파일
 이는 데이터 파일로 제가 사용했던 코드와 보고서가 들어가있습니다. 전반적인 전처리와 발표 순서는 보고서를 자세히 읽어보시면 될 거 같습니다!
 https://drive.google.com/drive/folders/1zCMavHdrvEbQxFt-bA5DVXocWkvDsEs3?usp=sharing
+![sns_thumb2023](https://github.com/chanho12/2023_Big_Contest/assets/104876055/369bbc1c-18ce-4175-8d2c-4a983a588d09)
